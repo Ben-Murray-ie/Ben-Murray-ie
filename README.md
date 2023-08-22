@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ben-Murray-ie.
--
-- I'm a student of software development, trying to transition into the IT sector.
--
+
+- I'm a student of software development, transitioning into the IT sector.
+
 - 👀 I’m interested in computers, software development, PC hardware, music, art, movies, gaming, 3D and more.
 - 🌱 I’m currently learning all types of software development, web dev, mobile. Anything I can get my hands on.
 - 💞️ I’m looking to collaborate on any projects that have roles or tasks suitable for a newcomer. 
